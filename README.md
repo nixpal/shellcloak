@@ -1,7 +1,7 @@
 <img width="998" alt="dBi" src="https://github.com/nixpal/shellcloak/blob/master/shellcloak.png">
                                           
 ----------------------------------------------------------------------------------------------
-# PLEASE DO NOT UPLOAD THE MAIN DROPPER TO VIRUSTOTAL. IT'S ALMOST 100% UNDETECTABLE ALREADY.|
+# PLEASE DO NOT UPLOAD THE MAIN DROPPER TO VIRUSTOTAL. IT'S ALMOST 100% UNDETECTABLE ALREADY.
 ----------------------------------------------------------------------------------------------
 
 - ShellCloak is a new technique to separate the shellcode from the dropper without downloading anything to the vitctim's machine. The way how this works is, it uses Chrome's and Firefox's history database to our advantage.
