@@ -53,3 +53,7 @@
 
 
 
+## The only step you need is: copy base64.rb to /usr/share/metasploit-framework/modules/encoders/base64/
+
+# Thanks All
+
