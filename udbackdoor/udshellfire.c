@@ -37,7 +37,6 @@ int main(int argc, char **argv) {
 	char *dircmd = malloc(strlen(dirPart) + strlen(dirfullPath));
 	strcpy(dircmd, dirPart);
 	strcat(dircmd, dirfullPath);
-	//printf("==> %s\n", dircmd);
 	
 	
 	FILE *fp;
@@ -45,23 +44,18 @@ int main(int argc, char **argv) {
 	fp = popen(dircmd, "r");
 
 while (fgets(path, sizeof(path), fp) != NULL) {
-    //printf("%s", path);
   }
 	int i;
 	for (i=0; i<strlen(path); i++){
 		if(path[i] == '\n')
 			path[i] = 0;
 	}
-	//printf("%s\n", path);
 	char * db = "\\places.sqlite";
-	//char * c = "c:";
-	//printf("==> %s", path);
  char * finalPath = malloc(strlen(fullpath) + strlen(path) + strlen(db)+ 1);
  strcpy(finalPath, fullpath);
  strcat(finalPath, path); 
  strcat(finalPath, db);
   pclose(fp); 
-	//printf("%s\n", finalPath);
 	
 	FILE * fp2 = fopen(finalPath, "r");	
 	
