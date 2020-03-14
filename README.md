@@ -1,38 +1,4 @@
-                 /$$$$$$  /$$                 /$$ /$$        /$$$$$$  /$$                     /$$      
-                 /$$__  $$| $$                | $$| $$       /$$__  $$| $$                    | $$      
-                | $$  \__/| $$$$$$$   /$$$$$$ | $$| $$      | $$  \__/| $$  /$$$$$$   /$$$$$$ | $$   /$$
-                |  $$$$$$ | $$__  $$ /$$__  $$| $$| $$      | $$      | $$ /$$__  $$ |____  $$| $$  /$$/
-                 \____  $$| $$  \ $$| $$$$$$$$| $$| $$      | $$      | $$| $$  \ $$  /$$$$$$$| $$$$$$/ 
-                 /$$  \ $$| $$  | $$| $$_____/| $$| $$      | $$    $$| $$| $$  | $$ /$$__  $$| $$_  $$ 
-                |  $$$$$$/| $$  | $$|  $$$$$$$| $$| $$      |  $$$$$$/| $$|  $$$$$$/|  $$$$$$$| $$ \  $$
-                 \______/ \__|  |__/ \_______/|__/|__/       \______/ |__/ \______/  \_______/|__/  \__/
-                                                                                        
-
-
-
-
-                                                    '+o` 
-                                                    /ddd+` 
-                                                   /mmm ms` 
-                                                   hmn  nmd`        
-                                                   ym    Mm` 
-                                                 -/sd    Nm+.
-                                                hmmmm\  /mmmms 
-                                               ommmmmmmmmmmmmd-
-                                              .dmmmmmmmmmmmmmm+     
-                                              ommmmmmm mmmmmmmd` 
-                                             `dmmmmmm   mmmmmmm/ 
-                                             :mmmmmm     mmmmmmh` 
-                                             ymmmmm       mmmmmmm.
-                                            `mmmmm         mmmmmm- 
-                                            -mmmm            mmmmm 
-                                            +mmm              mmms 
-                                            sNm                mmh 
-                                            hNm                mmh
-                                           `mNm                mmn
-                                           .mNN                mmh
-                                           :mNN................mmo
-                                           
+<img width="998" alt="dBi" src="https://github.com/nixpal/shellcloak/blob/master/shellcloak.png">
                                           
 
 # PLEASE DO NOT UPLOAD THE MAIN DROPPER TO VIRUSTOTAL. IT'S ALMOST 100% UNDETECTABLE ALREADY.
