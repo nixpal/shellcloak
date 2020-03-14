@@ -20,6 +20,7 @@
 
 
 ## The only step you need is: copy base64.rb to /usr/share/metasploit-framework/modules/encoders/base64/
+### You also need to install mingw cross compiler using this commnand: apt-get install mingw-w64
 
 # Thanks All
 
