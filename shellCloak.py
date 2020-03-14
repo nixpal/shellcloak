@@ -249,7 +249,7 @@ def final(Part1, Part2, Part3, patt1, patt2, patt3):
 	print "----------[ {}{}{} {}{}{} ]----------".format(w, "Make sure you open MSFconsole and listen for your payload on port", reset, g, PORT, reset)
 	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--        "
 	print "\n"
-
+	print "-----------------------[ {}{}{} ]-----------------------".format(r, "PAYLOAD : windows/meterpreter/reverse_tcp", reset)
 	print "-----------------------[ {}{}{} ]-----------------------".format(r, "PLEASE DO NOT UPLOAD TO VIRUS TOTAL", reset)
 
 
