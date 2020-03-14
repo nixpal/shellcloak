@@ -1,9 +1,7 @@
-//
-//  hex-to-byte.c
-//  CS150-Lab
+
 //
 //  Created by Tarek Abdelmotaleb on 11/21/19.
-//  Copyright © 2019 Tarek Abdelmotaleb. All rights reserved.
+//  Copyright Â© 2019 Tarek Abdelmotaleb. All rights reserved.
 //
 
 
