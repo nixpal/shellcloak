@@ -137,9 +137,9 @@ def trimShell():
 	#for x in range(First_Part_Len, shellLen):
 	#	Part2 += lines[x]
 	print "\n"
-	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--          "           
-	print "----------[ {}{}{}  ]----------".format(w, "This Pattern will mark the end of the first and second part of the shellcode", reset)
-	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--          "
+	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-          "
+	print "----------[ {}{}{}  ]----------".format(w, "This Pattern will mark the end of the all parts of the shellcode", reset)
+	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-          "
 
 	print "\n"
 	patt1 = raw_input("{} Enter first pattern: ".format(left_sign))
