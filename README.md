@@ -16,7 +16,7 @@
 
 - The javascript file will detect the browser and will redirect the user based on that browser.
 
-### This was tested on Windows 7 x86 and it's working fine. I haven't tested it on other boxex. I will try to add x64 later for Windows7 and Windows 10. Wait for updates.
+### This was tested on Windows 7 x86 and it's working fine. I haven't tested it on other boxes. I will try to add x64 later for Windows7 and Windows 10. Wait for updates.
 
 
 
