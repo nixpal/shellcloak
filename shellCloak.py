@@ -107,7 +107,7 @@ def config():
 
 def bdoorOpen(bdName, part1, part2, part3, patt1, patt2, patt3):
 
-	f = open('/root/udback_build/'+bdName, "rt")
+	f = open('./udback_build/'+bdName, "rt")
 	data = f.read()
 	data = data.replace('<PATTERN1>', patt1)
 	data = data.replace('<PATTERN2>', patt2)
@@ -118,7 +118,7 @@ def bdoorOpen(bdName, part1, part2, part3, patt1, patt2, patt3):
 
 	f.close()
 
-	f = open('/root/udback_build/'+bdName, "wt")
+	f = open('./udback_build/'+bdName, "wt")
 	f.write(data)
 	f.close()
 
