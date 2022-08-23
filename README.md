@@ -4,7 +4,7 @@
 # PLEASE DO NOT UPLOAD THE MAIN DROPPER TO VIRUSTOTAL. IT'S ALMOST 100% UNDETECTABLE ALREADY.
 ----------------------------------------------------------------------------------------------
 
-- ShellCloak is a new technique to separate the shellcode from the dropper without downloading anything to the vitctim's machine. The way how this works is, it uses Chrome's and Firefox's history database to our advantage.
+- ShellCloak is a new technique to separate the shellcode from the dropper without downloading anything to the vitctim's machine. The way how this works is it uses Chrome's and Firefox's history database to our advantage.
 
 - First it will generate meterpreter x86 powershell then it will use that shellcode as a URL on THREE parts. So there will be THREE redirections using javascript files. Each redirection will take 1 part from the shellcode and of course Chrome or Firefox will store that URL in it's history database which we will access later.
 
